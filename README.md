@@ -41,7 +41,7 @@
 
 ## 🛡️ Hardened Capabilities
 
-> **Abyssal Watcher v2.0** integrates full-spectrum defense mechanisms used in modern cyber warfare.
+> **Abyssal Watcher v1.04** integrates full-spectrum defense mechanisms used in modern cyber warfare.
 
 - 🔐 **Secure KMS & Simulated HSM Support**
 - 🧠 **Threat Prediction Engine + ML-Based Adjustments**
