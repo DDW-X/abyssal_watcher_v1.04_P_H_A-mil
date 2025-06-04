@@ -1,4 +1,4 @@
-# Abyssal Watcher — Military Edition (v2.0-hardened)
+# Abyssal Watcher — Military Edition (v1.04-hardened)
 
 ![Abyssal Watcher Logo](https://raw.githubusercontent.com/DDW-X/abyssal-watcher-hardened/main/assets/logo.png)
 
