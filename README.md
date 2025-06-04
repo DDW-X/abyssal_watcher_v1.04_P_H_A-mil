@@ -1,3 +1,5 @@
+#abyssal_watcher_v1.04_P_H_A-mil
+
 📌 GitHub Description (Final – Official, Militarized, Enterprise level):
 
 > Abyssal Watcher is a military-grade, hardened surveillance and cyber defense framework built in Rust. Designed for behavioral threat analysis, adaptive system defense, and deep memory inspection, it enables resilient real-time monitoring in highly hostile environments.
