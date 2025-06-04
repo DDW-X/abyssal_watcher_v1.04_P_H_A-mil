@@ -1,22 +1,22 @@
+# Security Policy
 
-# سیاست امنیتی (Security Policy)
+We welcome reports of security vulnerabilities.
 
-ما از گزارش آسیب‌پذیری‌های امنیتی استقبال می‌کنیم.
+## How to report
 
-## نحوه گزارش
+If you find a vulnerability:
 
-اگر آسیب‌پذیری‌ای پیدا کردید:
+1. Please contact the security email instead of submitting a public issue:
+**DDW.X.OFFICIAL@gmail.com**
 
-1. لطفاً به جای ارسال Issue عمومی، با ایمیل امنیتی تماس بگیرید:
-   **DDW.X.OFFICIAL@gmail.com**
-2. ما ظرف ۷ روز پاسخ می‌دهیم و تا رفع نهایی، گزارش را محرمانه نگه می‌داریم.
-3. پس از اصلاح، از شما در بخش تشکر عمومی پروژه نام برده خواهد شد (در صورت تمایل).
+2. We will respond within 7 days and keep the report confidential until the final fix.
+3. After the fix, you will be mentioned in the project's public thanks section (if you wish).
 
-## حوزه مسئولیت
+## Scope of responsibility
 
 - backend (Rust, Go)
 - frontend (React)
 - threat engine / defense layers
-- مستندات امنیتی
+- security documentation
 
-از مشارکت مسئولانه‌ی شما متشکریم.
+Thank you for your responsible participation.
