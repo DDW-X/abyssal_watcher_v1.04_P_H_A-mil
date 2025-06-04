@@ -1,27 +1,30 @@
 
-# راهنمای مشارکت (Contributing)
+# Contributing Guidelines
 
-از شما برای علاقه‌مندی به مشارکت در پروژه Abyssal Watcher سپاسگزاریم.
+Thank you for your interest in contributing to the Abyssal Watcher project.
 
-## قوانین مشارکت
+## Contributing Rules
 
-1. قبل از ارسال Pull Request، لطفاً یک Issue ایجاد کنید.
-2. کدها باید با تست‌های امنیتی همراه باشند.
-3. از `cargo fmt` و `cargo clippy` برای قالب‌بندی و lint استفاده کنید.
-4. هیچ تغییری نباید باعث کاهش امنیت سیستم شود.
+1. Please create an Issue before submitting a Pull Request.
 
-## نحوه اجرا
+2. Code must be accompanied by security tests.
+
+3. Use `cargo fmt` and `cargo clippy` for formatting and linting.
+
+4. No changes should compromise system security.
+
+## How to run
 
 ```bash
 docker-compose up --build
 ```
 
-## نحوه تست
+## How to test
 
 ```bash
 cargo test
 ```
 
-## مجوز
+## License
 
-با مشارکت در این پروژه، شما موافقت می‌کنید که کد خود را تحت مجوز LICENSE پروژه منتشر کنید.
+By contributing to this project, you agree to release your code under the project's LICENSE.
